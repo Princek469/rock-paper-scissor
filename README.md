@@ -13,3 +13,6 @@ A simple and interactive Rock Paper Scissors Game where you can play against the
 - **CSS** : For styling the page and creating the game’s layout.
 - **JavaScript** : For the game logic, handling user input, and generating random computer choices.
 
+  # View The Game
+  https://rock-paper-scissor-beryl-tau.vercel.app/
+
